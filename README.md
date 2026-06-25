@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @calebfaris
-- 👀 I’m interested in web devlopment (HTML, CSS, Javascript, PHP) and information technology (systems admin and networking)
-- 🌱 I’m currently learning Information Communication Technology
-- 📫 I can be reached via email @caleb.faris@uky.edu
+My name is Caleb. I work in the MSP space helping business solve technology problems and achieve their goals.
 
 <!---
 calebfaris/calebfaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
